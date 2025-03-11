@@ -17,3 +17,5 @@ Business Recommendations:
 4. Monitor daily sales trends to identify potential external influences affecting revenue.
 
 In summary, there is an opportunity for inventory optimization, promotions targeting high-sale customer segments, and more intense research into seasonal sales to improve the business strategy.
+
+Here is the dataset link https://www.kaggle.com/datasets/ankitrajmishra/walmart
